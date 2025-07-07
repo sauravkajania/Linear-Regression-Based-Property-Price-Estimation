@@ -92,10 +92,4 @@ Sample predictions show reasonable accuracy for the small dataset size.
 └── README.md                 # Project documentation
 ```
 
-## Future Enhancements
 
-- Add more features (bedrooms, bathrooms, age)
-- Implement cross-validation
-- Try different regression algorithms
-- Add model evaluation metrics (R², MAE, RMSE)
-- Expand dataset size for better accuracy
