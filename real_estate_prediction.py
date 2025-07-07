@@ -4,7 +4,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
-df = pd.read_csv('/home/atharva/NSTI/CSV_Files/Price.csv')
+df = pd.read_csv('Price.csv')
 
 print(df.info())
 print(df.describe())
